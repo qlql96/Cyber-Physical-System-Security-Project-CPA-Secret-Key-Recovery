@@ -21,7 +21,7 @@ Given a set of power traces (in a csv file format as captured in the lab), a **C
 
 1. Open your terminal/command prompt and navigate to the directory of the CPASecretKeyRecovery.jar file.
 2. In the terminal/command prompt, type in "java -jar CPASecretKeyRecovery.jar" to run the program.
-3. plot1Data.csv and plot2Data.csv are the output of the program and can be found in the same directory. Both csv files are needed as input to run the python script. 
+3. plot1Data.csv and plot2Data.csv are the output of the program and can be found in the same directory. Both csv files are needed as input to run the python script (plotCPA.py). 
 4. After each successful recovery of the 16 bytes of key, type in the original secret 16 bytes of key into the program. The program will compare the extracted key and the original key.
 
 ### Run Visualization Python Script (plotCPA.py)
