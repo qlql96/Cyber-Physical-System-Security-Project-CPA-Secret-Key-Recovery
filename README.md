@@ -2,7 +2,7 @@
 
 Given a set of power traces (in a csv file format as captured in the lab), a **Correlation Power Analysis (CPA) program** is developed in Java for this project to implement CPA on the given traces to extract the key. A **Python script** is also written to visualize the output of the CPA program by plotting two types of graphs (Plot 1 and Plot 2). 
 
-## Author **Tong Qi Long (U1822422C)**
+## Author - **Tong Qi Long (U1822422C)**
 
 
 
