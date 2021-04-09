@@ -9,8 +9,8 @@ Given a set of power traces (in a csv file format as captured in the lab), a **C
 
 ## Prerequisite:
 
-1. Installed with Java
-2. Installed with Python3, Python pandas library and Python matplolib library
+1. Installed with Java (https://java.com/en/download/help/download_options.html)
+2. Installed with Python3 (https://www.python.org/downloads/), Python pandas library (https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html) and Python matplolib library (https://matplotlib.org/stable/users/installing.html)
 
 ## Get Started:
 1. Unzip the CZ4055_Project.rar
@@ -28,3 +28,4 @@ Given a set of power traces (in a csv file format as captured in the lab), a **C
 2. Ensure plot1Data.csv and plot2Data.csv are in the same directory as plotCPA.py. If any of the csv file does not exist, run Correlation Power Analysis (CPA) program (CPASecretKeyRecovery.jar) again. 
 3. In the terminal/command prompt, type in "python3 plotCPA.py" to run the program
 4. plot1.png and plot2.png are the output of the script and are saved in the same directory. Plot 1 will take less than a minute to be generated while plot 2 will take a few minutes to be generated due to large number of data points. 
+
